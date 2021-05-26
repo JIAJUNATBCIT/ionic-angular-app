@@ -1,0 +1,9 @@
+{
+	"appId": "com.example.myapp",
+	"appName": "Recipes App",
+	"webDir": "www",
+	"bundledWebRuntime": false,
+	"server": {
+		"url": "http://localhost:8100"
+	}
+}
